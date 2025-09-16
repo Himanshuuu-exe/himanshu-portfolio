@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/himanshu-portfolio/static/css/main.7f6078ee.css",
+    "main.js": "/himanshu-portfolio/static/js/main.89d3e70f.js",
+    "static/js/453.f01416db.chunk.js": "/himanshu-portfolio/static/js/453.f01416db.chunk.js",
+    "static/media/profile-pic.jpg": "/himanshu-portfolio/static/media/profile-pic.1cafda64293a25adef51.jpg",
+    "index.html": "/himanshu-portfolio/index.html",
+    "main.7f6078ee.css.map": "/himanshu-portfolio/static/css/main.7f6078ee.css.map",
+    "main.89d3e70f.js.map": "/himanshu-portfolio/static/js/main.89d3e70f.js.map",
+    "453.f01416db.chunk.js.map": "/himanshu-portfolio/static/js/453.f01416db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f6078ee.css",
+    "static/js/main.89d3e70f.js"
+  ]
+}
