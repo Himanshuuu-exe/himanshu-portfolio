@@ -87,6 +87,9 @@ Copy code
 npm start
 The app will be running at http://localhost:3000/
 
+---
+
+
 🌍 Deployment
 This portfolio is deployed on GitHub Pages.
 To deploy your own version:
@@ -105,8 +108,13 @@ Commit your changes
 
 Push and open a Pull Request
 
+---
+
 📬 Contact
 💼 Portfolio: himanshuuu-exe.github.io/himanshu-portfolio
+
 📧 Email: your-chandelhimanshu20email@example.com
+
 💻 GitHub: @himanshuuu-exe
+
 🔗 LinkedIn: https://www.linkedin.com/in/himanshu-chandel-38a3402a2/
