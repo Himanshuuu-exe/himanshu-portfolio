@@ -25,7 +25,7 @@ It serves as a central hub for recruiters, collaborators, and anyone interested 
 ![Contact](public/screenshots/cont.png)
 
 ### ⚙️ Extra
-![Extra](public/screenshots/last.png)
+![Extra](public/screenshots/last)
 
 
 ---
