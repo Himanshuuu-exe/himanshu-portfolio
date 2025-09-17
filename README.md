@@ -9,20 +9,24 @@ It serves as a central hub for recruiters, collaborators, and anyone interested 
 
 ## 📸 Preview
 
-### 🔹 Home
-![Home Screenshot](./screenshots/main.png)
+### 🏠 Home
+![Home](public/screenshots/main.png)
 
-### 🔹 Skills / Tech Stack
-![Tech Stack Screenshot](./screenshots/tech_S.png)
+### 💼 Projects
+![Projects](public/screenshots/proj.png)
 
-### 🔹 Projects
-![Projects Screenshot](./screenshots/proj.png)
+### 🛠️ Skills
+![Skills](public/screenshots/tech_S.png)
 
-### 🔹 Achievements
-![Achievements Screenshot](./screenshots/ach.png)
+### 🏆 Achievements
+![Achievements](public/screenshots/ach.png)
 
-### 🔹 Contact
-![Contact Screenshot](./screenshots/cont.png)
+### ✉️ Contact
+![Contact](public/screenshots/cont.png)
+
+### ⚙️ Extra
+![Extra](/screenshots/{EAA88BCB-E28D-4430-BFFC-CF5A7273F97A}.png)
+
 
 ---
 
