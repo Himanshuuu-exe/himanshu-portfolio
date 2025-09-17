@@ -1,123 +1,112 @@
-# Himanshu Chandel — Portfolio
+# 🌐 Personal Portfolio Website
 
-[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://himanshuuu-exe.github.io/himanshu-portfolio/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+This is my **personal portfolio website** built using **React.js** to showcase my skills, projects, achievements, and experience.  
+It serves as a central hub for recruiters, collaborators, and anyone interested in learning more about my work.  
 
----
-
-## 🌐 Live Portfolio
-👉 [**Visit Here**](https://himanshuuu-exe.github.io/himanshu-portfolio/)  
-
-This is the repository for my **personal portfolio website**, showcasing my skills, projects, and background.  
+🔗 **Live Demo:** [himanshuuu-exe.github.io/himanshu-portfolio](https://himanshuuu-exe.github.io/himanshu-portfolio/)
 
 ---
 
 ## 📸 Preview
 
-### 🔹 Option 1: Grid Style (Modern)
+### 🔹 Home
+![Home Screenshot](./screenshots/main.png)
 
-<div align="center">
+### 🔹 Skills / Tech Stack
+![Tech Stack Screenshot](./screenshots/tech_S.png)
 
-#### 🏠 Homepage & 🏆 Achievements
-<img src="assets/images/homepage.png" alt="Homepage" width="45%" />
-<img src="assets/images/achievements.png" alt="Achievements" width="45%" />
+### 🔹 Projects
+![Projects Screenshot](./screenshots/proj.png)
 
----
+### 🔹 Achievements
+![Achievements Screenshot](./screenshots/ach.png)
 
-#### 💼 Projects & ⚡ Tech Stack
-<img src="assets/images/projects.png" alt="Projects" width="45%" />
-<img src="assets/images/techstack.png" alt="Tech Stack" width="45%" />
-
----
-
-#### 🛠 Skills & 📬 Contact
-<img src="assets/images/skills.png" alt="Skills" width="45%" />
-<img src="assets/images/contact.png" alt="Contact" width="45%" />
-
-</div>
-
----
-
-### 🔹 Option 2: Vertical Style (Simple)
-
-#### 🏠 Homepage  
-![Homepage](assets/images/homepage.png)
-
-#### 🏆 Achievements  
-![Achievements](assets/images/achievements.png)
-
-#### 💼 Projects  
-![Projects](assets/images/projects.png)
-
-#### ⚡ Tech Stack  
-![Tech Stack](assets/images/techstack.png)
-
-#### 🛠 Skills  
-![Skills](assets/images/skills.png)
-
-#### 📬 Contact  
-![Contact](assets/images/contact.png)
-
----
-
-## 📌 Table of Contents
-
-1. [About Me](#-about-me)  
-2. [Features](#-features)  
-3. [Technologies & Tools](#-technologies--tools)  
-4. [Getting Started](#-getting-started)  
-5. [Project Structure](#-project-structure)  
-6. [Deployment](#-deployment)  
-7. [Contributing](#-contributing)  
-8. [License](#-license)  
-9. [Contact](#-contact)  
-
----
-
-## 👨‍💻 About Me
-
-I’m **Himanshu Chandel** — a passionate developer with expertise in **frontend development, backend development, and modern web technologies**.  
-This portfolio acts as a **digital resume and project gallery**, highlighting what I’ve built and what I aim to build.  
+### 🔹 Contact
+![Contact Screenshot](./screenshots/cont.png)
 
 ---
 
 ## 🚀 Features
 
-- ✅ Responsive design (mobile, tablet, desktop)  
-- ✅ About section with introduction  
-- ✅ Project gallery with live links  
-- ✅ Contact section for networking & collaboration  
-- ✅ Clean & modern UI/UX  
+- 🎨 **Modern UI/UX** with responsive design  
+- 🌓 **Dark/Light mode** ready (currently dark-themed)  
+- 📂 Projects showcase with links to live demos & GitHub repos  
+- 📧 Contact form integration for direct communication  
+- ⚡ Fast and optimized performance  
+- 📱 Fully responsive across devices  
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Framework / Library:** React.js (if used)  
-- **Styling:** Tailwind CSS / Bootstrap / Custom CSS  
-- **Build Tools:** Node.js, Vite / Webpack  
-- **Hosting / Deployment:** GitHub Pages  
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)  
+- **Styling:** Tailwind CSS  
+- **Icons & UI:** React Icons  
+- **Deployment:** GitHub Pages  
+- **Other Tools:** Git, npm  
+- **Data base:** mongodb  
 
 ---
 
-## ⚡ Getting Started
+## 📂 Folder Structure
 
-To run this project locally:
+portfolio/
+├── public/ # Static files
+├── src/
+│ ├── assets/ # Images, logos, icons
+│ ├── components/ # Reusable components
+│ ├── pages/ # Main sections (Home, Skills, Projects, Achievements, Contact)
+│ ├── App.js # Root component
+│ ├── index.js # Entry point
+├── package.json # Project metadata & dependencies
 
-```bash
-# Clone the repository
-git clone https://github.com/himanshuuu-exe/himanshu-portfolio.git
+yaml
+Copy code
 
-# Navigate into the project folder
+---
+
+## ⚙️ Installation & Setup
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/himanshuuu-exe/himanshu-portfolio.git
+Navigate to project directory
+
+bash
+Copy code
 cd himanshu-portfolio
+Install dependencies
 
-# (If applicable) Install dependencies
+bash
+Copy code
 npm install
+Run the development server
 
-# Run development server / preview
+bash
+Copy code
 npm start
+The app will be running at http://localhost:3000/
+
+🌍 Deployment
+This portfolio is deployed on GitHub Pages.
+To deploy your own version:
+
+bash
+Copy code
+npm run deploy
+🤝 Contributing
+Contributions are welcome! If you find a bug or want to add a feature:
+
+Fork the repo
+
+Create a new branch (feature-branch)
+
+Commit your changes
+
+Push and open a Pull Request
+
+📬 Contact
+💼 Portfolio: himanshuuu-exe.github.io/himanshu-portfolio
+📧 Email: your-chandelhimanshu20email@example.com
+💻 GitHub: @himanshuuu-exe
+🔗 LinkedIn: https://www.linkedin.com/in/himanshu-chandel-38a3402a2/
