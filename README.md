@@ -54,18 +54,23 @@ It serves as a central hub for recruiters, collaborators, and anyone interested 
 
 ## 📂 Folder Structure
 
+```bash
 portfolio/
-├── public/ # Static files
+├── public/             # Static files
+│   ├── screenshots/    # Screenshots used in README
+│   │   ├── main.png
+│   │   ├── proj.png
+│   │   ├── cont.png
+│   │   ├── tech_S.png
+│   │   ├── ach.png
+│   │   └── {EAA88BCB-E28D-4430-BFFC-CF5A7273F97A}.png
 ├── src/
-│ ├── assets/ # Images, logos, icons
-│ ├── components/ # Reusable components
-│ ├── pages/ # Main sections (Home, Skills, Projects, Achievements, Contact)
-│ ├── App.js # Root component
-│ ├── index.js # Entry point
-├── package.json # Project metadata & dependencies
-
-yaml
-Copy code
+│   ├── assets/         # Images, logos, icons
+│   ├── components/     # Reusable components
+│   ├── pages/          # Main sections (Home, Skills, Projects, Achievements, Contact)
+│   ├── App.js          # Root component
+│   ├── index.js        # Entry point
+├── package.json        # Project metadata & dependencies
 
 ---
 
